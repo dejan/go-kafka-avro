@@ -16,8 +16,9 @@ limitations under the License. */
 package avro
 
 import (
-	avro "github.com/elodina/go-avro"
 	"testing"
+
+	avro "github.com/dejan/go-avro"
 )
 
 func TestSchemaRegistry(t *testing.T) {

@@ -16,9 +16,10 @@ limitations under the License. */
 package avro
 
 import (
-	"github.com/elodina/go-avro"
 	"reflect"
 	"testing"
+
+	"github.com/dejan/go-avro"
 )
 
 const (
