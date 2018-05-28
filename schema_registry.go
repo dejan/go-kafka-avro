@@ -24,8 +24,9 @@ import (
 	"strconv"
 	"strings"
 
-	avro "github.com/elodina/go-avro"
 	"sync"
+
+	avro "github.com/dejan/go-avro"
 )
 
 const (
